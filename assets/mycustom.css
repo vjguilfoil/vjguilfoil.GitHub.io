@@ -1,0 +1,42 @@
+.row-grid + .row-grid {
+    margin-top: 15px;
+}
+
+.h-10 {
+    height: 10%;
+}
+.h-5 {
+    height: 5%;
+}
+
+a:link {
+    color: white; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+.navback{
+  background-color: #9b474d;
+}
+a.clientlove:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
